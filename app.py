@@ -7,7 +7,7 @@ from prediction import get_prediction,ordinal_encoder,string_to_float
 
 
 # Load the model
-model = joblib.load(r'C:/Santhosh/Site-Energy-Intensity-Prediction-Project/Model/random_forest.joblib')
+model = joblib.load(r'Model/random_forest.joblib')
 
 st.set_page_config(page_title="Site Energy Intensity Prediction",
                    page_icon="🏙🏘", layout="wide")
