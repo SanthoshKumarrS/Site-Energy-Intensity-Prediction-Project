@@ -60,4 +60,4 @@ You are provided with two datasets: (1) the train\_dataset where the observed va
 
 **References:**
 
-1. [KNN Imputer]([https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b](https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/))
+1. [KNN Imputer](https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/)
